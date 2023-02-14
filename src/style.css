@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --van-tabbar-item-font-size: 16px !important;
+    --van-tabbar-item-icon-size: 28px !important;
+    --van-tabbar-height: 60px !important;
+}
