@@ -50,6 +50,10 @@
           title="当前角色"
           value="普通职员"
         />
+        <van-cell
+          title="退出登录"
+          is-link
+        />
       </div>
     </div>
   </div>

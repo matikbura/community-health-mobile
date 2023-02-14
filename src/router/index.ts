@@ -20,10 +20,10 @@ export const routes = [
     ]
   },
   {
-    path: '/leave_permit-list',
-    name: 'leave_permit',
+    path: '/leave-permit-list',
+    name: 'leave-permit',
     component: Layout,
-    redirect: '/leave_permit-list/index',
+    redirect: '/leave-permit-list/index',
     meta: { title: '假条', icon: 'records', isTag: true, isHead:true },
     children: [
       {
